@@ -39,5 +39,5 @@ My name is Aaron. I am a native of Jacksonville, Florida, and am currently study
 
 **Language: Java**
 
-&nbsp;
+<br>
 Contact: aaron.a.garman14@gmail.com
