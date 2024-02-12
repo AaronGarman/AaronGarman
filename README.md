@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Aaron. I am a native of Jacksonville, Florida, and am currently studying Computer Science at Florida State University. My current areas of interest are mobile development and back end development. This semester, I have mostly been working on iOS, Java, and Python based projects. Outside of software development, my hobbies include playing basketball, watching sports, and competitive gaming, among others. Below are some projects that I have been working on recently.
+My name is Aaron. I am a native of Jacksonville, Florida, and am currently studying Computer Science at Florida State University. My current areas of interest are mobile development and back end development. This semester, I have mostly been working on iOS, Java, and Python based projects. Outside of software development, my hobbies include playing basketball, watching sports, and competitive gaming, among others. Below are some projects that I have been working on recently. I hope to expand upon them and even add more projects in the future!
 
 ## Basketball Shot Tracker - iOS (Solo Project)
 
