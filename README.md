@@ -19,7 +19,7 @@ My name is Aaron. I am a native of Jacksonville, Florida, and am currently study
 
 ## Basketball Shot Tracker - iOS App (Solo Project)
 
-[Source Code](https://github.com/AaronGarman/iOS101-CapstoneProject)
+[Repository Link](https://github.com/AaronGarman/iOS101-CapstoneProject)
 
 * Capstone project for Codepath Intro to iOS development course using **Swift** and **UIKit**
 * Users can **create** and **delete** basketball shooting workout entries
