@@ -34,7 +34,7 @@ My name is Aaron. I am a native of Jacksonville, Florida, and am currently study
 
 ## Yahtzee - Desktop App (Solo Project)
 
-[Repository Link](https://github.com/AaronGarman/Yahtzee)
+[Repository Link](https://github.com/AaronGarman/Yahtzee-Java)
 
 * Personal project developed using **Java** and **Java Swing**
 * Fully playable Yahtzee dice game with all rules implemented
