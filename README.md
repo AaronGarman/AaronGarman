@@ -30,7 +30,11 @@ My name is Aaron. I am a native of Jacksonville, Florida, and am currently study
     <img src='https://github.com/AaronGarman/iOS101-CapstoneProject/blob/main/ProjCapstoneSprint3Walkthrough.gif' title='iOS Project Gif' width='' alt='iOS Project Gif' />
 </div>
 
+<br>
+
 ## Yahtzee - Desktop App (Solo Project)
+
+<br>
 
 ## Personal Finance Tracker - Android App (Group Project)
 
