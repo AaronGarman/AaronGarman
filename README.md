@@ -52,7 +52,7 @@ My name is Aaron. I am a native of Jacksonville, Florida, and am currently study
 [Repository Link](https://github.com/AaronGarman/COP4656-Final-Project)
 
 * Final Project for FSU Mobile Programming course
-* User can deposit or withdraw money from their budget balance. This can be done manually or by SMS using a **broadcast receiver**
+* Users can deposit or withdraw money from their budget balance. This can be done manually or by SMS using a **broadcast receiver**
 * User account information, deposits, and withdrawals are stored in **Firebase Database**
 * My contributions: Activities with user interface, List View, Broadcast Receiver
 
