@@ -27,7 +27,7 @@ My name is Aaron. I am a native of Jacksonville, Florida, and am currently study
 * Entries are stored in a **Table View**, and can be clicked on to show more details
 * Stats tab on **navigation bar** allows users to see their shooting percentages over all workouts
 
-<div align = "center">
+<div>
     <img src='https://github.com/AaronGarman/iOS101-CapstoneProject/blob/main/ProjCapstoneSprint3Walkthrough.gif' title='iOS Project Gif' width='' alt='iOS Project Gif' />
 </div>
 
