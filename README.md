@@ -38,8 +38,8 @@ My name is Aaron. I am a native of Jacksonville, Florida, and am currently study
 
 * Personal project developed using **Java** and **Java Swing**
 * Fully playable Yahtzee dice game with all rules implemented
-* Uses **Object-Oriented programming** design to implement different sections of the game
-* Uses **Event-driven program** design to respond to user input as the game is played
+* Uses **object-oriented programming** design to implement different sections of the game
+* Uses **event-driven program** design to respond to user input as the game is played
 
 <div align = "center">
     <img src='' title='Java Project Gif' width='' alt='Java Project Gif' />
@@ -52,7 +52,7 @@ My name is Aaron. I am a native of Jacksonville, Florida, and am currently study
 [Repository Link](https://github.com/AaronGarman/COP4656-Final-Project)
 
 * Final Project for FSU Mobile Programming course
-* User can deposit or withdraw money from their budget balance. This can be done manually or by SMS using a **broadcast receiver**. User receives a **notification** after transaction is complete
+* User can deposit or withdraw money from their budget balance. This can be done manually or by SMS using a **broadcast receiver**
 * User deposits and withdrawals are stored in **Firebase Database**
 * My contributions: Activites with UI, List View, Broadcast receiver
 
