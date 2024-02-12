@@ -19,10 +19,9 @@ My name is Aaron. I am a native of Jacksonville, Florida, and am currently study
 
 ## Basketball Shot Tracker - iOS App (Solo Project)
 
-
 [Repository Link](https://github.com/AaronGarman/iOS101-CapstoneProject)
 
-* Capstone project for Codepath intro to iOS development course using **Swift** and **UIKit**
+* Capstone project for Codepath Intro to iOS development course using **Swift** and **UIKit**
 * Users can **create** and **delete** basketball shooting workout entries
 * Entries are stored in a **Table View**, and can be clicked on to show more details
 * Stats tab on **navigation bar** allows users to see their shooting percentages over all workouts
@@ -33,11 +32,7 @@ My name is Aaron. I am a native of Jacksonville, Florida, and am currently study
 
 ## Yahtzee - Desktop App (Solo Project)
 
-**Language: Java**
-
 ## Personal Finance Tracker - Android App (Group Project)
-
-**Language: Java**
 
 <br>
 Contact: aaron.a.garman14@gmail.com
