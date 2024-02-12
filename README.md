@@ -14,3 +14,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Basketball Shot Tracker - iOS (Solo Project)
+
+
+[Repository Link](https://github.com/AaronGarman/iOS101-CapstoneProject)
+
+**Programming Language: Swift**
+
+* point 1
+* point 2
+* point 3
+* point 4
+
+<img src='https://github.com/AaronGarman/iOS101-CapstoneProject/blob/main/ProjCapstoneSprint3Walkthrough.gif' title='iOS Project Gif' width='' alt='iOS Project Gif' />
+
+
+
+## Yahtzee (Solo Project)
+
+**Language: Java**
+
+## Personal Finance Tracker - (Group Project)
+
+**Language: Java**
