@@ -36,10 +36,10 @@ My name is Aaron. I am a native of Jacksonville, Florida, and am currently study
 
 [Repository Link](https://github.com/AaronGarman/Yahtzee)
 
-* Point 1
-* Point 2
-* Point 3
-* Point 4
+* Personal project developed using **Java** and **Java Swing**
+* Fully playable Yahtzee dice game with all rules implemented
+* Uses **Object-Oriented programming** design to implement different sections of the game
+* Uses **Event-driven program** design to respond to user input as the game is played
 
 <div align = "center">
     <img src='' title='Java Project Gif' width='' alt='Java Project Gif' />
