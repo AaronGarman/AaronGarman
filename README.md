@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 My name is Aaron. I am a native of Jacksonville, Florida, and am currently studying Computer Science at Florida State University. My current areas of interest are mobile development and back end development. This semester, I have mostly been working on iOS, Java, and Python based projects. Outside of software development, my hobbies include playing basketball, watching sports, and competitive gaming, among others. Below are some projects that I have been working on recently. I hope to expand upon them and even add more in the future!
 
-## Basketball Shot Tracker - iOS (Solo Project)
+## Basketball Shot Tracker - iOS App (Solo Project)
 
 
 [Repository Link](https://github.com/AaronGarman/iOS101-CapstoneProject)
@@ -31,12 +31,13 @@ My name is Aaron. I am a native of Jacksonville, Florida, and am currently study
     <img src='https://github.com/AaronGarman/iOS101-CapstoneProject/blob/main/ProjCapstoneSprint3Walkthrough.gif' title='iOS Project Gif' width='' alt='iOS Project Gif' />
 </div>
 
-## Yahtzee (Solo Project)
+## Yahtzee - Desktop App (Solo Project)
 
 **Language: Java**
 
-## Personal Finance Tracker - (Group Project)
+## Personal Finance Tracker - Android App (Group Project)
 
 **Language: Java**
 
+&nbsp;
 Contact: aaron.a.garman14@gmail.com
