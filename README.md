@@ -15,20 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+My name is Aaron. I am a native of Jacksonville, Florida, and am currently studying Computer Science at Florida State University. My current areas of interest are mobile development and back end development. This semester, I have mostly been working on iOS, Java, and Python based projects. Outside of software development, my hobbies include playing basketball, watching sports, and competitive gaming, among others. Below are some projects that I have been working on recently.
+
 ## Basketball Shot Tracker - iOS (Solo Project)
 
 
 [Repository Link](https://github.com/AaronGarman/iOS101-CapstoneProject)
 
-**Programming Language: Swift**
+* Capstone project for Codepath intro to iOS development course using **Swift** and **UIKit**
+* Users can **create** and **delete** basketball shooting workout entries
+* Entries are stored in a **Table View**, and can be clicked on to show more details
+* Stats tab on **navigation bar** allows users to see their shooting percentages over all workouts
 
-* point 1
-* point 2
-* point 3
-* point 4
-
-<div align="center">
-  <img src='https://github.com/AaronGarman/iOS101-CapstoneProject/blob/main/ProjCapstoneSprint3Walkthrough.gif' title='iOS Project Gif' width='' alt='iOS Project Gif' />
+<div align = "center">
+    <img src='https://github.com/AaronGarman/iOS101-CapstoneProject/blob/main/ProjCapstoneSprint3Walkthrough.gif' title='iOS Project Gif' width='' alt='iOS Project Gif' />
 </div>
 
 ## Yahtzee (Solo Project)
@@ -38,3 +38,5 @@ Here are some ideas to get you started:
 ## Personal Finance Tracker - (Group Project)
 
 **Language: Java**
+
+Contact: aaron.a.garman14@gmail.com
