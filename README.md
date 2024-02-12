@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 * point 3
 * point 4
 
-<img src='https://github.com/AaronGarman/iOS101-CapstoneProject/blob/main/ProjCapstoneSprint3Walkthrough.gif' title='iOS Project Gif' width='' alt='iOS Project Gif' />
-
-
+<div align="center">
+  <img src='https://github.com/AaronGarman/iOS101-CapstoneProject/blob/main/ProjCapstoneSprint3Walkthrough.gif' title='iOS Project Gif' width='' alt='iOS Project Gif' />
+</div>
 
 ## Yahtzee (Solo Project)
 
