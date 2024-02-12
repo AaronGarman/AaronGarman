@@ -34,9 +34,32 @@ My name is Aaron. I am a native of Jacksonville, Florida, and am currently study
 
 ## Yahtzee - Desktop App (Solo Project)
 
+[Repository Link](https://github.com/AaronGarman/Yahtzee)
+
+* Point 1
+* Point 2
+* Point 3
+* Point 4
+
+<div align = "center">
+    <img src='' title='Java Project Gif' width='' alt='Java Project Gif' />
+</div>
+
 <br>
 
 ## Personal Finance Tracker - Android App (Group Project)
 
+[Repository Link](https://github.com/AaronGarman/COP4656-Final-Project)
+
+* Point 1
+* Point 2
+* Point 3
+* Point 4
+
+<div align = "center">
+    <img src='' title='Android Project Gif' width='' alt='Android Project Gif' />
+</div>
+
 <br>
+
 Contact: aaron.a.garman14@gmail.com
