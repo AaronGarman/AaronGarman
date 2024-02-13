@@ -26,6 +26,8 @@ My name is Aaron. I am a native of Jacksonville, Florida, and am currently study
 * Entries are stored in a **Table View**, and can be clicked on to show more details
 * Stats tab on **navigation bar** allows users to see their shooting percentages over all workouts
 
+<br>
+
 <div align = "center">
     <img src='https://github.com/AaronGarman/iOS101-CapstoneProject/blob/main/ProjCapstoneSprint3Walkthrough.gif' title='iOS Project Gif' width='' alt='iOS Project Gif' />
 </div>
@@ -41,6 +43,8 @@ My name is Aaron. I am a native of Jacksonville, Florida, and am currently study
 * Uses **object-oriented programming** design to implement the different sections of the game
 * Uses **event-driven program** design to respond to user input as the game is played
 
+<br>
+
 <div align = "center">
     <img src='https://github.com/AaronGarman/Yahtzee-Java/blob/master/YahtzeeJava.gif' title='Yahtzee Project Gif' width='' alt='Yahtzee Project Gif' />
 </div>
@@ -55,6 +59,8 @@ My name is Aaron. I am a native of Jacksonville, Florida, and am currently study
 * Users can deposit or withdraw money from their budget balance. This can be done manually or by SMS using a **broadcast receiver**
 * User account information, deposits, and withdrawals are stored in **Firebase Database**
 * My contributions: Activities with user interface, List View, Broadcast Receiver
+
+<br>
 
 <div align = "center">
     <img src='' title='Android Project Gif' width='' alt='Android Project Gif' />
