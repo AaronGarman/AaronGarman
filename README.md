@@ -42,7 +42,7 @@ My name is Aaron. I am a native of Jacksonville, Florida, and am currently study
 * Uses **event-driven program** design to respond to user input as the game is played
 
 <div align = "center">
-    <img src='' title='Java Project Gif' width='' alt='Java Project Gif' />
+    <img src='https://github.com/AaronGarman/Yahtzee-Java/blob/master/YahtzeeJava.gif' title='Yahtzee Project Gif' width='' alt='Yahtzee Project Gif' />
 </div>
 
 <br>
