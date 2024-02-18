@@ -53,7 +53,7 @@ My name is Aaron. I am a native of Jacksonville, Florida, and am currently study
 
 ## Personal Finance Tracker - Android App (Group Project)
 
-[Repository Link](https://github.com/AaronGarman/COP4656-Final-Project)
+[Repository Link](https://github.com/AaronGarman/COP4646-FinalProject)
 
 * Final project for FSU Mobile Programming course
 * Users can deposit and withdraw from budget balance manually or by SMS using a **Broadcast Receiver**
