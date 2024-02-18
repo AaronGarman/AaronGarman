@@ -21,8 +21,8 @@ My name is Aaron. I am a native of Jacksonville, Florida, and am currently study
 
 [Repository Link](https://github.com/AaronGarman/iOS101-CapstoneProject)
 
-* Capstone project for Codepath Intro to iOS development course using **Swift** and **UIKit**
-* Users can **create** and **delete** basketball shooting workout entries
+* Capstone project for Codepath Intro to iOS Development course using **Swift** and **UIKit**
+* Users can **create**, **view**, and **delete** basketball shooting workout entries
 * Entries are stored in a **Table View**, and can be clicked on to show more details
 * Stats tab on **navigation bar** allows users to see their shooting percentages over all workouts
 
@@ -41,7 +41,7 @@ My name is Aaron. I am a native of Jacksonville, Florida, and am currently study
 * Personal project developed using **Java** and **Java Swing**
 * Fully playable Yahtzee dice game with all rules implemented
 * Uses **object-oriented programming** design to implement the different sections of the game
-* Uses **event-driven program** design to respond to user input as the game is played
+* Uses **event-driven programming** design to respond to user input as the game is played
 
 <br>
 
@@ -55,10 +55,10 @@ My name is Aaron. I am a native of Jacksonville, Florida, and am currently study
 
 [Repository Link](https://github.com/AaronGarman/COP4656-Final-Project)
 
-* Final Project for FSU Mobile Programming course
-* Users can deposit or withdraw money from their budget balance. This can be done manually or by SMS using a **broadcast receiver**
-* User account information, deposits, and withdrawals are stored in **Firebase Database**
-* My contributions: Activities with user interface, List View, Broadcast Receiver
+* Final project for FSU Mobile Programming course
+* Users can deposit and withdraw from budget balance manually or by SMS using a **Broadcast Receiver**
+* User account information, balance, deposits, and withdrawals are stored in **Firebase Database**
+* My contributions: Activities for user interface, List View, and Broadcast Receiver
 
 <br>
 
