@@ -63,7 +63,7 @@ My name is Aaron. I am a native of Jacksonville, Florida, and am currently study
 <br>
 
 <div align = "center">
-    <img src='' title='Android Project Gif' width='' alt='Android Project Gif' />
+    <img src='https://github.com/AaronGarman/COP4646-FinalProject/blob/master/BankingApp.gif' title='Android Project Gif' alt='Android Project Gif' />
 </div>
 
 <br>
