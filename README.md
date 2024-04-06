@@ -29,7 +29,7 @@ My name is Aaron. I am a native of Jacksonville, Florida, and am currently study
 <br>
 
 <div align = "center">
-    <img src='https://github.com/AaronGarman/iOS101-CapstoneProject/blob/main/ProjCapstoneWalkthroughNew.gif' height='650' title='iOS Project Gif' alt='iOS Project Gif' />
+    <img src='https://github.com/AaronGarman/iOS101-CapstoneProject/blob/main/ProjCapstoneWalkthroughNew.gif' height='700' title='iOS Project Gif' alt='iOS Project Gif' />
 </div>
 
 <br>
