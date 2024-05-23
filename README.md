@@ -46,7 +46,7 @@ My name is Aaron. I am a native of Jacksonville, Florida, and am currently study
 <br>
 
 <div align = "center">
-    <img src='https://github.com/AaronGarman/Yahtzee-Java/blob/master/YahtzeeJavaNew.gif' title='Yahtzee Project Gif' width='600' height='600' alt='Yahtzee Project Gif' />
+    <img src='https://github.com/AaronGarman/Yahtzee-Java/blob/master/YahtzeeJavaNew.gif' title='Yahtzee Project Gif' width='600' height='650' alt='Yahtzee Project Gif' />
 </div>
 
 <br>
@@ -63,7 +63,7 @@ My name is Aaron. I am a native of Jacksonville, Florida, and am currently study
 <br>
 
 <div align = "center">
-    <img src='https://github.com/AaronGarman/COP4646-FinalProject/blob/master/BankingApp.gif' height='600' width='300' title='Android Project Gif' alt='Android Project Gif' />
+    <img src='https://github.com/AaronGarman/COP4646-FinalProject/blob/master/BankingApp.gif' height='650' width='300' title='Android Project Gif' alt='Android Project Gif' />
 </div>
 
 <br>
