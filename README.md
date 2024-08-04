@@ -15,21 +15,38 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Aaron. I am a native of Jacksonville, Florida, and am currently studying Computer Science at Florida State University. My current areas of interest are mobile development and back-end development. This semester, I have mostly been working on iOS, Java, and Python based projects. Outside of software development, my hobbies include playing basketball, watching sports, and playing guitar, among others. Below are some projects that I have been working on recently. I hope to expand upon them and add even more in the future!
+My name is Aaron. I am a native of Jacksonville, Florida, and am a recent graduate with a degree in Computer Science from Florida State University. My current areas of interest are mobile development and back-end development. Recently, I have mostly been working on iOS and Java based projects. Outside of software development, my hobbies include playing basketball, watching sports, and playing the guitar, among others. Below are some projects that I have been working on recently. I hope to expand upon them and add even more in the future!
 
-## Basketball Shot Tracker - iOS App (Solo Project)
+## Movies App - iOS App (Solo Project)
 
-[Repository Link](https://github.com/AaronGarman/iOS101-CapstoneProject)
+[Repository Link](REPO LINK)
 
-* Capstone project for Codepath Intro to iOS Development course using **Swift** and **UIKit**
-* Users can **create**, **view**, and **delete** basketball shooting workout entries
-* Entries are stored in a **Table View**, and can be clicked on to show more details
-* Stats tab on **navigation bar** allows users to see their shooting percentages over all workouts
+* Developed using **SwiftUI** and the **Model-View-Controller** design pattern
+* Retrieves data from a **movie database API** using **REST Client** methods
+* Users can see information about movies and add them to a favorites list
+* Uses **Firebase Authentication** and a **Firestore Database** to store a user’s favorites list
 
 <br>
 
 <div align = "center">
-    <img src='https://github.com/AaronGarman/iOS101-CapstoneProject/blob/main/ProjCapstoneWalkthroughNew.gif' height='650' width='300' title='iOS Project Gif' alt='iOS Project Gif' />
+    <img src='GIF LINK' height='650' width='300' title='Movies App Gif' alt='Movies App Gif' />
+</div>
+
+<br>
+
+## Recipe Tracker App - iOS App (Solo Project) - * In Progress *
+
+[Repository Link](REPO LINK)
+
+* Developed using **UIKit** and the **Model-View-Controller** design pattern
+* Users can **create, read, update, and delete** recipes and items on a shopping list
+* **PhotoKit allows** users to **attach and take photos** to put on each created recipe
+* Uses **Parse** for both **user authentication** and a **database** to store user entries
+
+<br>
+
+<div align = "center">
+    <img src='GIF LINK' height='650' width='300' title='Movies App Gif' alt='Movies App Gif' />
 </div>
 
 <br>
