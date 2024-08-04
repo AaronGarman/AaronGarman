@@ -39,9 +39,9 @@ My name is Aaron. I am a native of Jacksonville, Florida, and am a recent gradua
 [Repository Link](REPO LINK)
 
 * Developed using **UIKit** and the **Model-View-Controller** design pattern
-* Users can **create, read, update, and delete** recipes and items on a shopping list
+* Users can **create, read, update, and delete** recipes and items on a shopping list - * In Progress *
 * **PhotoKit allows** users to **attach and take photos** to put on each created recipe
-* Uses **Parse** for both **user authentication** and a **database** to store user entries
+* Uses **Parse** for both **user authentication** and a **database** to store user entries - * In Progress *
 
 <br>
 
