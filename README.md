@@ -46,7 +46,7 @@ My name is Aaron. I am a native of Jacksonville, Florida, and am a recent gradua
 <br>
 
 <div align = "center">
-    <img src='GIF LINK' height='650' width='300' title='Movies App Gif' alt='Movies App Gif' />
+    <img src='GIF LINK' height='650' width='300' title='Recipes App Gif' alt='Recipes App Gif' />
 </div>
 
 <br>
