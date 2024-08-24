@@ -33,7 +33,7 @@ My name is Aaron. I am a native of Jacksonville, Florida, and am a recent gradua
   <img src='https://github.com/AaronGarman/MoviesAppiOS/blob/main/Movies-List.png' height='525' width='250' title='Movies List' alt='Movies List' />
   <img src='https://github.com/AaronGarman/MoviesAppiOS/blob/main/Movies-Details.png' height='525' width='250' title='Movies Detail' alt='Movies Detail' />
   <img src='https://github.com/AaronGarman/MoviesAppiOS/blob/main/Movies-Favs.png' height='525' width='250' title='Movies Favs' alt='Movies Favs' />
-  <img src='GIF LINK' height='525' width='250' title='Movies App Gif' alt='Movies App Gif' />
+  <img src='https://github.com/AaronGarman/MoviesAppiOS/blob/main/Movies-Gif.gif' height='525' width='250' title='Movies App Gif' alt='Movies App Gif' />
 </div>
 
 <br>
