@@ -29,10 +29,10 @@ My name is Aaron. I am a native of Jacksonville, Florida, and am a recent gradua
 <br>
 
 <div>
-  <img src='https://github.com/AaronGarman/MoviesAppiOS/blob/main/Movies-Login.png' height='650' width='300' title='Movies Login' alt='Movies Login' />
-  <img src='https://github.com/AaronGarman/MoviesAppiOS/blob/main/Movies-List.png' height='650' width='300' title='Movies List' alt='Movies List' />
-  <img src='https://github.com/AaronGarman/MoviesAppiOS/blob/main/Movies-Detail.png' height='650' width='300' title='Movies Detail' alt='Movies Detail' />
-  <img src='https://github.com/AaronGarman/MoviesAppiOS/blob/main/Movies-Favs.png' height='650' width='300' title='Movies Favs' alt='Movies Favs' />
+  <img src='https://github.com/AaronGarman/MoviesAppiOS/blob/main/Movies-Login.png' height='525' width='250' title='Movies Login' alt='Movies Login' />
+  <img src='https://github.com/AaronGarman/MoviesAppiOS/blob/main/Movies-List.png' height='525' width='250' title='Movies List' alt='Movies List' />
+  <img src='https://github.com/AaronGarman/MoviesAppiOS/blob/main/Movies-Detail.png' height='525' width='250' title='Movies Detail' alt='Movies Detail' />
+  <img src='https://github.com/AaronGarman/MoviesAppiOS/blob/main/Movies-Favs.png' height='525' width='250' title='Movies Favs' alt='Movies Favs' />
 </div>
 
 <div align = "center">
