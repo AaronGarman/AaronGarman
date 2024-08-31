@@ -38,12 +38,12 @@ My name is Aaron. I am a native of Jacksonville, Florida, and am a recent gradua
 
 <br>
 
-## Recipe Tracker App - iOS App (Solo Project) - * In Progress *
+## Recipe Tracker App - iOS App (Solo Project)
 
 [Repository Link](REPO LINK)
 
 * Developed using the **UIKit** framework
-* Users can **create, read, update, and delete** recipes and items on a shopping list - * In Progress *
+* Users can **create, read, update, and delete** recipes and items on a shopping list
 * **PhotoKit allows** users to **attach and take photos** to put on each created recipe
 * Uses **Parse** for both **user authentication** and a **database** to store user entries - * In Progress *
 
@@ -62,7 +62,7 @@ My name is Aaron. I am a native of Jacksonville, Florida, and am a recent gradua
 
 [Repository Link](https://github.com/AaronGarman/Yahtzee-Java)
 
-* Personal project developed using **Java** and **Java Swing**
+* Developed using **Java** and the **Java Swing** library for the user interface
 * Fully playable Yahtzee dice game with all rules implemented
 * Uses **object-oriented programming** design to implement the different sections of the game
 * Uses **event-driven programming** design to respond to user input as the game is played
