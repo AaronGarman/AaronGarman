@@ -19,7 +19,7 @@ My name is Aaron. I am a native of Jacksonville, Florida, and am a recent gradua
 
 ## Movies App - iOS App (Solo Project)
 
-[Repository Link](REPO LINK)
+[Repository Link](https://github.com/AaronGarman/MoviesAppiOS)
 
 * Developed using the **SwiftUI** framework
 * Retrieves data from a **movie database API** using **RESTful Client** services
