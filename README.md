@@ -40,7 +40,7 @@ My name is Aaron. I am a native of Jacksonville, Florida, and am a recent gradua
 
 ## Recipe Tracker App - iOS App (Solo Project)
 
-[Repository Link](REPO LINK)
+[Repository Link](https://github.com/AaronGarman/RecipesApp)
 
 * Developed using the **UIKit** framework
 * Users can **create, read, update, and delete** recipes and items on a shopping list
