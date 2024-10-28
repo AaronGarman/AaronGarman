@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Aaron. I am a native of Jacksonville, Florida, and am a recent graduate with a degree in Computer Science from Florida State University. My current areas of interest are mobile development and back-end development. Recently, I have mostly been working on iOS and Java based projects. Outside of software development, my hobbies include playing basketball, watching sports, and playing the guitar, among others. Below are some projects that I have been working on recently. I hope to expand upon them and add even more in the future!
+My name is Aaron. I am a native of Fleming Island, Florida, and am a recent graduate with a degree in Computer Science from Florida State University. My current areas of interest are mobile development and back-end development. Recently, I have mostly been working on iOS and Java based projects. Outside of software development, my hobbies include playing basketball, watching sports, and playing the guitar, among others. Below are some projects that I have been working on recently. I hope to expand upon them and add even more in the future!
 
 ## Movies App - iOS App (Solo Project)
 
