@@ -75,21 +75,4 @@ My name is Aaron. I am a native of Jacksonville, Florida, and am a recent gradua
 
 <br>
 
-## Personal Finance Tracker - Android App (Group Project)
-
-[Repository Link](https://github.com/AaronGarman/COP4646-FinalProject)
-
-* Final project for FSU Mobile Programming course
-* Users can deposit and withdraw from budget balance manually or by SMS using a **Broadcast Receiver**
-* User account information, balance, deposits, and withdrawals are stored in **Firebase Database**
-* My contributions: Activities for user interface, List View, and Broadcast Receiver
-
-<br>
-
-<div align = "center">
-    <img src='https://github.com/AaronGarman/COP4646-FinalProject/blob/master/BankingApp.gif' height='525' width='250' title='Android Project Gif' alt='Android Project Gif' />
-</div>
-
-<br>
-
 Contact: aaron.a.garman14@gmail.com
