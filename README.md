@@ -21,7 +21,7 @@ My name is Aaron. I am a native of Fleming Island, Florida, and am a recent grad
 
 [Repository Link](https://github.com/AaronGarman/RecipesApp)
 
-* Developed using the **UIKit** framework
+* Developed using the **UIKit** framework and **MVC** architecture
 * Users can **create, read, update, and delete** recipes and items on a shopping list
 * **PhotoKit** integration allows users to **attach and take photos** to put on each created recipe
 * Uses **ParseSwift** for both **user authentication** and a **cloud database** to store user entries
