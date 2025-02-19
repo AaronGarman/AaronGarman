@@ -43,10 +43,10 @@ My name is Aaron. I am a native of Fleming Island, Florida, and am a recent grad
 
 [Repository Link](https://github.com/AaronGarman/Yahtzee-iOS)
 
-* 
-* 
-* 
-* 
+* Developed using the **UIKit** framework and **MVC** architecture
+* Fully playable Yahtzee game with all rules implemented
+* User can play the game, read the game rules, and keep track of his/her high score
+* Uses **AudioToolBox** framework for in game sounds
 
 <br>
 
