@@ -45,7 +45,7 @@ My name is Aaron. I am a native of Fleming Island, Florida, and am a recent grad
 * Developed using the **UIKit** framework
 * Users can **create, read, update, and delete** recipes and items on a shopping list
 * **PhotoKit** integration allows users to **attach and take photos** to put on each created recipe
-* Uses **ParseSwift** for both **user authentication** and a **database** to store user entries
+* Uses **ParseSwift** for both **user authentication** and a **cloud database** to store user entries
 
 <br>
 
