@@ -29,12 +29,12 @@ My name is Aaron. I am a native of Fleming Island, Florida, and am a recent grad
 <br>
 
 <div>
-  <img src='https://github.com/AaronGarman/RecipesApp/blob/main/Recipes-SignIn.png' height='525' width='250' title='Recipes Sign In' alt='Recipes Sign In' />
-  <img src='https://github.com/AaronGarman/RecipesApp/blob/main/Recipes-MainFeed.png' height='525' width='250' title='Recipes Main Feed' alt='Recipes Main Feed' />
-  <img src='https://github.com/AaronGarman/RecipesApp/blob/main/Recipes-AddRecipe.png' height='525' width='250' title='Add Recipe' alt='Add Recipe' />
-  <img src='https://github.com/AaronGarman/RecipesApp/blob/main/Recipes-DetailsScreen.png' height='525' width='250' title='Recipe Details' alt='Recipe Details' />
-  <img src='https://github.com/AaronGarman/RecipesApp/blob/main/Recipes-ShopFeed.png' height='525' width='250' title='Shopping List Feed' alt='Shopping List Feed' />
-  <img src='https://github.com/AaronGarman/RecipesApp/blob/main/Recipes-AddShopItem.png' height='525' width='250' title='Add Shopping Item' alt='Add Shopping Item' />
+  <img src='https://github.com/AaronGarman/RecipesApp/blob/main/Images/Recipes-SignIn.png' height='525' width='250' title='Recipes Sign In' alt='Recipes Sign In' />
+  <img src='https://github.com/AaronGarman/RecipesApp/blob/main/Images/Recipes-MainFeed.png' height='525' width='250' title='Recipes Main Feed' alt='Recipes Main Feed' />
+  <img src='https://github.com/AaronGarman/RecipesApp/blob/main/Images/Recipes-AddRecipe.png' height='525' width='250' title='Add Recipe' alt='Add Recipe' />
+  <img src='https://github.com/AaronGarman/RecipesApp/blob/main/Images/Recipes-DetailsScreen.png' height='525' width='250' title='Recipe Details' alt='Recipe Details' />
+  <img src='https://github.com/AaronGarman/RecipesApp/blob/main/Images/Recipes-ShopFeed.png' height='525' width='250' title='Shopping List Feed' alt='Shopping List Feed' />
+  <img src='https://github.com/AaronGarman/RecipesApp/blob/main/Images/Recipes-AddShopItem.png' height='525' width='250' title='Add Shopping Item' alt='Add Shopping Item' />
 </div>
 
 <br>
