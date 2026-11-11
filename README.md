@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 My name is Aaron. I am a native of Fleming Island, Florida, and am a recent graduate with a degree in Computer Science from Florida State University. My current areas of interest are mobile development, back-end development, and computer systems analysis. Recently, I have mostly been working on iOS and Java based projects. Outside of software development, my hobbies include playing basketball, watching sports, and playing the guitar, among others. Below are some projects that I have been working on recently. I hope to expand upon them and add even more in the future!
 
+<br>
+
 ## Linux Shell Simulator - Command-Line App (Group Project)
 
 Source code available upon request - repository is private in adherence to the FSU Academic Honor Policy
