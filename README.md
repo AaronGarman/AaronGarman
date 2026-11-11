@@ -39,6 +39,27 @@ My name is Aaron. I am a native of Fleming Island, Florida, and am a recent grad
 
 <br>
 
+## Movies App - iOS App (Solo Project)
+
+[Repository Link](https://github.com/AaronGarman/MoviesAppiOS)
+
+* Developed using the **SwiftUI** framework
+* Retrieves data from a **movie database API** using **RESTful Client** services
+* Users can see information about movies and add them to a favorites list
+* Uses **Firebase Authentication** and a **Firestore Database** to store a user’s favorites list
+
+<br>
+
+<div>
+  <img src='https://github.com/AaronGarman/MoviesAppiOS/blob/main/Movies-Login.png' height='525' width='250' title='Movies Login' alt='Movies Login' />
+  <img src='https://github.com/AaronGarman/MoviesAppiOS/blob/main/Movies-List.png' height='525' width='250' title='Movies List' alt='Movies List' />
+  <img src='https://github.com/AaronGarman/MoviesAppiOS/blob/main/Movies-Details.png' height='525' width='250' title='Movies Detail' alt='Movies Detail' />
+  <img src='https://github.com/AaronGarman/MoviesAppiOS/blob/main/Movies-Favs.png' height='525' width='250' title='Movies Favs' alt='Movies Favs' />
+  <!-- <img src='https://github.com/AaronGarman/MoviesAppiOS/blob/main/Movies-Gif.gif' height='525' width='250' title='Movies App Gif' alt='Movies App Gif' /> -->
+</div>
+
+<br>
+
 ## Yahtzee Game - iOS App (Solo Project)
 
 [Repository Link](https://github.com/AaronGarman/Yahtzee-iOS)
@@ -57,27 +78,6 @@ My name is Aaron. I am a native of Fleming Island, Florida, and am a recent grad
   <img src='https://github.com/AaronGarman/Yahtzee-iOS/blob/main/Yahtzee-MidGame.png' height='525' width='250' title='Mid Game' alt='Mid Game' />
   <img src='https://github.com/AaronGarman/Yahtzee-iOS/blob/main/Yahtzee-StartNew.png' height='525' width='250' title='Start New Game' alt='Start New Game' />
   <img src='https://github.com/AaronGarman/Yahtzee-iOS/blob/main/Yahtzee-EndGame.png' height='525' width='250' title='End Game' alt='End Game' />
-</div>
-
-<br>
-
-## Movies App - iOS App (Solo Project)
-
-[Repository Link](https://github.com/AaronGarman/MoviesAppiOS)
-
-* Developed using the **SwiftUI** framework
-* Retrieves data from a **movie database API** using **RESTful Client** services
-* Users can see information about movies and add them to a favorites list
-* Uses **Firebase Authentication** and a **Firestore Database** to store a user’s favorites list
-
-<br>
-
-<div>
-  <img src='https://github.com/AaronGarman/MoviesAppiOS/blob/main/Movies-Login.png' height='525' width='250' title='Movies Login' alt='Movies Login' />
-  <img src='https://github.com/AaronGarman/MoviesAppiOS/blob/main/Movies-List.png' height='525' width='250' title='Movies List' alt='Movies List' />
-  <img src='https://github.com/AaronGarman/MoviesAppiOS/blob/main/Movies-Details.png' height='525' width='250' title='Movies Detail' alt='Movies Detail' />
-  <img src='https://github.com/AaronGarman/MoviesAppiOS/blob/main/Movies-Favs.png' height='525' width='250' title='Movies Favs' alt='Movies Favs' />
-  <!-- <img src='https://github.com/AaronGarman/MoviesAppiOS/blob/main/Movies-Gif.gif' height='525' width='250' title='Movies App Gif' alt='Movies App Gif' /> -->
 </div>
 
 <br>
