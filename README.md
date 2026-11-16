@@ -30,7 +30,14 @@ Source code available upon request - repository is private in adherence to the F
 
 <br>
 
+## Active Directory Domain Controller Lab - Microsoft Azure (Solo Project)
+
 [Lab Walkthrough](https://github.com/AaronGarman/Active-Directory-Lab/blob/main/README.md)
+
+* Deployed Windows virtual machines in Microsoft Azure to simulate a domain controller and client computer in a Windows domain environment.
+* Configured Active Directory users, security groups, and organizational units (OUs), and joined client computers to the domain.
+* Performed common user administration tasks, including password resets, updating user account information, and moving user accounts between organizational units.
+* Created and applied a test Group Policy Object (GPO) to prohibit users from using the command prompt on a domain joined computer.
 
 <br>
 
