@@ -41,6 +41,10 @@ Source code available upon request - repository is private in adherence to the F
 
 <br>
 
+<img src='https://github.com/AaronGarman/Active-Directory-Lab/blob/main/User-Moved.png' title='Active Directory Lab' alt='Active Directory Lab' />
+
+<br>
+
 ## Recipe Tracker App - iOS App (Solo Project)
 
 [Repository Link](https://github.com/AaronGarman/RecipesApp)
