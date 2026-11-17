@@ -19,12 +19,12 @@ My name is Aaron. I am a native of Fleming Island, Florida, and am a recent grad
 
 <br>
 
-## Linux Shell Simulator - Command-Line App (Group Project)
+## Unix Shell Simulator - Command-Line App (Group Project)
 
 Source code available upon request - repository is private in adherence to the FSU Academic Honor Policy
 
-* Developed a Linux shell simulator using C
-* Simulates a Linux shell where users can input and execute basic Linux commands
+* Developed a Unix shell simulator using C
+* Simulates a Unix shell where users can input and execute basic Unix commands
 * Parses user input and executes commands with their associated arguments
 * Contributions: Input & Output Redirection, Change Directory, Environment Variable Expansion, User Prompt
 
