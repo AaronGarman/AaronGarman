@@ -41,7 +41,7 @@ Source code available upon request - repository is private in adherence to the F
 
 <br>
 
-<img src='https://github.com/AaronGarman/Active-Directory-Lab/blob/main/User-Moved.png' title='Active Directory Lab' alt='Active Directory Lab' />
+<img src='https://github.com/AaronGarman/Active-Directory-Lab/blob/main/Images/User-Moved.png' title='Active Directory Lab' alt='Active Directory Lab' />
 
 <br>
 
